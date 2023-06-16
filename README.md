@@ -1,15 +1,12 @@
 # Jeremy's Notes
-## [Summary]() 
+## Summary
 
-This repository contains all of the notes taken by Jeremy for the Lighthouse Labs Web Development Bootcamp 
+This repository contains all of the notes taken by [Jeremy's](https://github.com/Jerscape) for the [Lighthouse labs](www.lighthouselabs.com)  Web Development Bootcamp 
 
 ###### small heading
 ##### less small heading
 ### less less small heading
 
-[My github profile](https://github.com/Jerscape)
-
-[Lighthouse labs](www.lighthouselabs.com) 
 
 
 
